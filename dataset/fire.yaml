@@ -1,0 +1,6 @@
+train: 
+val: 
+test: 
+
+nc: 2
+names: ['fire','smoke']
